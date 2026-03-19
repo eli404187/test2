@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 816 570.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bc0004;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        clip-rule: evenodd;
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: ArialMT, Arial;
+        font-size: 4px;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <polyline class="cls-2" points="0 0 816 0 816 570 0 570 0 0"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polyline class="cls-2" points="1 1 815 1 815 569 1 569 1 1"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polyline class="cls-2" points="1 1 815 1 815 569 1 569 1 1"/>
+    </clipPath>
+  </defs>
+  <text class="cls-3" transform="translate(1 569)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-3" transform="translate(4.11 569)"><tspan x="0" y="0">S</tspan></text>
+  <text class="cls-3" transform="translate(6.78 569)"><tspan x="0" y="0">P</tspan></text>
+  <text class="cls-3" transform="translate(9.45 569)"><tspan x="0" y="0">u</tspan></text>
+  <text class="cls-3" transform="translate(11.67 569)"><tspan x="0" y="0">b</tspan></text>
+  <text class="cls-3" transform="translate(13.9 569)"><tspan x="0" y="0">l</tspan></text>
+  <text class="cls-3" transform="translate(14.79 569)"><tspan x="0" y="0">i</tspan></text>
+  <text class="cls-3" transform="translate(15.67 569)"><tspan x="0" y="0">s</tspan></text>
+  <text class="cls-3" transform="translate(17.67 569)"><tspan x="0" y="0">h</tspan></text>
+  <text class="cls-3" transform="translate(19.9 569)"><tspan x="0" y="0">e</tspan></text>
+  <text class="cls-3" transform="translate(22.12 569)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-3" transform="translate(23.46 569)"><tspan x="0" y="0">V</tspan></text>
+  <text class="cls-3" transform="translate(25.9 569)"><tspan x="0" y="0">e</tspan></text>
+  <text class="cls-3" transform="translate(28.13 569)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-3" transform="translate(29.46 569)"><tspan x="0" y="0">s</tspan></text>
+  <text class="cls-3" transform="translate(31.46 569)"><tspan x="0" y="0">i</tspan></text>
+  <text class="cls-3" transform="translate(32.35 569)"><tspan x="0" y="0">o</tspan></text>
+  <text class="cls-3" transform="translate(34.57 569)"><tspan x="0" y="0">n</tspan></text>
+  <text class="cls-3" transform="translate(36.8 569)"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-3" transform="translate(37.91 569)"><tspan x="0" y="0">5</tspan></text>
+  <text class="cls-3" transform="translate(40.13 569)"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-3" transform="translate(42.06 569)"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-3" transform="translate(44.29 569)"><tspan x="0" y="0">.</tspan></text>
+  <text class="cls-3" transform="translate(45.4 569)"><tspan x="0" y="0">9</tspan></text>
+  <text class="cls-3" transform="translate(47.62 569)"><tspan x="0" y="0">8</tspan></text>
+  <text class="cls-3" transform="translate(49.85 569)"><tspan x="0" y="0">.</tspan></text>
+  <text class="cls-3" transform="translate(50.96 569)"><tspan x="0" y="0">9</tspan></text>
+  <text class="cls-3" transform="translate(53.18 569)"><tspan x="0" y="0">9</tspan></text>
+  <text class="cls-3" transform="translate(55.41 569)"><tspan x="0" y="0">.</tspan></text>
+  <text class="cls-3" transform="translate(56.52 569)"><tspan x="0" y="0">9</tspan></text>
+  <text class="cls-3" transform="translate(58.74 569)"><tspan x="0" y="0">3</tspan></text>
+  <text class="cls-3" transform="translate(1 564.75)"><tspan x="0" y="0">G</tspan></text>
+  <text class="cls-3" transform="translate(4.11 564.75)"><tspan x="0" y="0">S</tspan></text>
+  <text class="cls-3" transform="translate(6.78 564.75)"><tspan x="0" y="0">E</tspan></text>
+  <text class="cls-3" transform="translate(9.45 564.75)"><tspan x="0" y="0">d</tspan></text>
+  <text class="cls-3" transform="translate(11.67 564.75)"><tspan x="0" y="0">u</tspan></text>
+  <text class="cls-3" transform="translate(13.9 564.75)"><tspan x="0" y="0">c</tspan></text>
+  <text class="cls-3" transform="translate(15.9 564.75)"><tspan x="0" y="0">a</tspan></text>
+  <text class="cls-3" transform="translate(18.12 564.75)"><tspan x="0" y="0">t</tspan></text>
+  <text class="cls-3" transform="translate(19.23 564.75)"><tspan x="0" y="0">i</tspan></text>
+  <text class="cls-3" transform="translate(20.12 564.75)"><tspan x="0" y="0">o</tspan></text>
+  <text class="cls-3" transform="translate(22.35 564.75)"><tspan x="0" y="0">n</tspan></text>
+  <text class="cls-3" transform="translate(24.57 564.75)"><tspan x="0" y="0">a</tspan></text>
+  <text class="cls-3" transform="translate(26.79 564.75)"><tspan x="0" y="0">l</tspan></text>
+  <text class="cls-3" transform="translate(27.68 564.75)"><tspan x="0" y="0">V</tspan></text>
+  <text class="cls-3" transform="translate(30.13 564.75)"><tspan x="0" y="0">e</tspan></text>
+  <text class="cls-3" transform="translate(32.36 564.75)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-3" transform="translate(33.69 564.75)"><tspan x="0" y="0">s</tspan></text>
+  <text class="cls-3" transform="translate(35.69 564.75)"><tspan x="0" y="0">i</tspan></text>
+  <text class="cls-3" transform="translate(36.58 564.75)"><tspan x="0" y="0">o</tspan></text>
+  <text class="cls-3" transform="translate(38.8 564.75)"><tspan x="0" y="0">n</tspan></text>
+  <g class="cls-4">
+    <polyline class="cls-1" points="272.56 495.13 499.73 83.85 577.57 83.85 577.57 330.08 575.25 330.37 572.7 330.71 570.19 331.29 568.46 331.74 567.69 331.81 566.27 331.51 565.31 330.82 564.59 329.89 563.41 327.47 561.84 324.5 559.6 321.99 556.25 319.93 552.53 318.63 547.44 317.82 542.28 317.92 537.22 318.94 532.43 320.84 528.05 323.56 524.23 327.02 521.08 331.11 518.7 335.69 517.53 337.96 516.68 338.81 515.52 339.3 514.33 339.13 513.31 338.33 511.51 335.54 509.59 332.8 507.2 330.47 504.4 328.62 501.32 327.34 497.07 326.23 492.71 325.73 488.33 325.87 484.75 326.74 481.51 328.48 479.29 330.54 477.56 333.03 476.27 335.92 475.43 338.97 471.96 342 468.3 344.79 464.42 345.06 462.71 344.59 460.93 344.52 458.2 344.39 455.52 344.88 451.34 346.26 449.65 347.13 448.09 348.22 445.63 350.73 443.68 353.65 440.61 360.14 437.79 362.66 435.88 364.59 433.59 366.06 431.8 367.54 429.72 368.56 427.45 369.06 424.22 369.77 420.93 370.22 418.4 369.88 415.85 369.86 411.18 370.27 406.59 371.2 402.13 372.64 397.41 374.48 395.27 375.63 393.39 377.18 391.77 379.39 390.57 381.86 389.83 384.5 388.98 389.52 388.59 392.27 388.39 393.01 388.2 393.32 387.65 393.66 387.29 393.62 386.92 393.42 386.13 392.79 384.6 391.79 382.88 391.18 381.07 390.99 377.96 391.19 374.92 391.91 371.4 393.52 368.34 395.89 365.68 399.21 363.81 403.02 362.87 406.17 362.29 409.41 361.78 412.2 360.61 414.58 358.69 416.42 355.47 417.98 351.74 419.12 346.94 420.64 345.07 421.49 343.32 422.56 340.8 424.79 336.52 430.04 334.86 432.71 333.66 435.61 332.93 438.67 332.72 442.46 333.01 446.24 334.1 452.39 335.15 458.87 335.21 460.17 335.17 460.54 334.77 461.01 334.51 461.09 334.24 461.13 331.28 461.89 328.54 463.25 326.13 465.13 323.95 467.77 322.5 470.87 321.6 474.72 321.43 478.66 321.11 481.97 321.43 485.28 322.39 488.46 323.04 495.13 272.56 495.13"/>
+    <polyline class="cls-1" points="272.56 495.13 166.29 495.13 166.29 389.32 171.71 387.35 182.92 387.35 186.47 380.99 196.52 379.35 208.28 381.39 215.27 386.85 218.34 385.22 223.82 385.22 228.54 386.38 230.94 389.17 232.34 394.26 233.02 403.34 231.97 414.56 231.97 429.54 236.68 430.47 242.87 434.17 247.16 433.8 247.93 432.07 247.76 425.38 245.81 416.05 245.81 411.01 245.81 400.11 250.02 390.42 250.02 380.99 255.59 386.38 264.37 379.39 270.16 380.56 277.18 387.11 283.22 388.11 286.09 378.47 301.5 376.65 307.38 370.38 310.17 362.11 311.76 349.57 320.67 339.08 321.21 328.24 324.29 326.53 326.73 319.38 337.69 320.91 345.57 312.1 345.57 305.95 339.64 294.11 330.92 282.93 333.18 272.4 327.68 266.89 320.6 263.96 316.33 259.69 282.66 259.69 271.01 265.3 261.27 275.04 243.66 273.69 197.97 263.96 166.29 263.96 166.29 83.85 499.73 83.85 363.95 329.66 272.56 495.13"/>
+  </g>
+</svg>
